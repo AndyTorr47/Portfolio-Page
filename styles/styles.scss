@@ -235,6 +235,25 @@ section {
       }
     }
   }
+
+  .left-about {
+    padding-right: 4rem;
+    p {
+      color: var(--color-grey-1);
+      line-height: 1.8rem;
+    }
+    h3 {
+      text-decoration: underline;
+    }
+  }
+}
+
+.about-stats {
+  padding-bottom: 1.3rem;
+  h4 {
+    font-size: larger;
+    text-decoration: underline;
+  }
 }
 
 .btn-con {

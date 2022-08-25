@@ -245,6 +245,24 @@ section {
   height: 2px;
   background-color: var(--color-grey-5);
 }
+.about-container .left-about {
+  padding-right: 4rem;
+}
+.about-container .left-about p {
+  color: var(--color-grey-1);
+  line-height: 1.8rem;
+}
+.about-container .left-about h3 {
+  text-decoration: underline;
+}
+
+.about-stats {
+  padding-bottom: 1.3rem;
+}
+.about-stats h4 {
+  font-size: larger;
+  text-decoration: underline;
+}
 
 .btn-con {
   display: flex;

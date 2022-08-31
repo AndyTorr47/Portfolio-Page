@@ -11,9 +11,16 @@
     height: 50px;
   }
 
-  .left-header {
-    .h-shape {
-      display: contents;
+  .header-content {
+    .left-header {
+      .h-shape {
+        width: 120%;
+        .image {
+          img {
+            width: 120%;
+          }
+        }
+      }
     }
   }
 

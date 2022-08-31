@@ -548,7 +548,7 @@ section {
     width: 120%;
   }
   .right-header {
-    padding-right: 2rem !important;
+    padding-right: 0rem !important;
   }
   .controlls {
     top: auto;

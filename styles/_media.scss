@@ -11,8 +11,14 @@
     height: 50px;
   }
 
+  .left-header {
+    .h-shape {
+      display: contents;
+    }
+  }
+
   .right-header {
-    padding-right: 0rem !important;
+    padding-right: 2rem !important;
   }
 
   .controlls {
